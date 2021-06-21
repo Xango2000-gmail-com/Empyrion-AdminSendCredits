@@ -1,0 +1,6 @@
+C:\Users\Nick\Source\Repos\AdminSendCredits\AdminSendCredits\bin\Debug\AdminSendCredits.dll
+C:\Users\Nick\Source\Repos\AdminSendCredits\AdminSendCredits\bin\Debug\AdminSendCredits.pdb
+C:\Users\Nick\Source\Repos\AdminSendCredits\AdminSendCredits\obj\Debug\AdminSendCredits.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\AdminSendCredits\AdminSendCredits\obj\Debug\AdminSendCredits.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\AdminSendCredits\AdminSendCredits\obj\Debug\AdminSendCredits.dll
+C:\Users\Nick\Source\Repos\AdminSendCredits\AdminSendCredits\obj\Debug\AdminSendCredits.pdb
